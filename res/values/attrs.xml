@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SliderPuzzle">
+        <attr name="size" format="integer" />
+        <attr name="randomMoves" format="integer" />
+        <attr name="image" format="reference" />
+        <attr name="imageMode">
+            <enum name="crop" value="0" />
+            <enum name="stretch" value="1" />
+        </attr>
+    </declare-styleable>
+
+</resources>

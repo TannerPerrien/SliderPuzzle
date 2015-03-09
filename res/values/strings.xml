@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Keep strings in alphabetical order -->
+
+    <string name="app_name">SliderPuzzle</string>
+    <string name="no">No</string>
+    <string name="puzzle_solved">Puzzle Solved!</string>
+    <string name="play_again">Play again?</string>
+    <string name="yes">Yes</string>
+
+    <string-array name="puzzle_image">
+        <item>Globe</item>
+        <item>Weebly</item>
+        <item>Panoramic</item>
+    </string-array>
+    
+    <string-array name="puzzle_size">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+        <item>6x6</item>
+    </string-array>
+    
+    <string-array name="puzzle_difficulty">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    
+    <string-array name="puzzle_image_mode">
+        <item>Crop</item>
+        <item>Stretch</item>
+    </string-array>
+
+</resources>
